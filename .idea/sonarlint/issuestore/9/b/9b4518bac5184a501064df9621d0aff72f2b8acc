@@ -1,0 +1,26 @@
+
+q
+java:S2095@"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓëÔÿÿÿÿÿ8Ûİƒßø0
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(±ßàó8Üİƒßø0
+q
+java:S20956"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïÌÀ¤ıÿÿÿÿ8Şİƒßø0
+q
+java:S2095H"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óîüúÿÿÿÿ8ßİƒßø0
+q
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(òûœøÿÿÿÿ8ßİƒßø0
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ø¶8ßİƒßø0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÔ†ò8âİƒßø0
+j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øŒÕ8ãİƒßø0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(«‹Îõ8åİƒßø0
+j	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¸Ø„8åİƒßø0
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(ŠâİË8èİƒßø0
+o	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñùÑ­ùÿÿÿÿ8êİƒßø0
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ŠâİË8ëİƒßø0
+o	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÍ×üÿÿÿÿ8íİƒßø0
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ä‡€¯8ğİƒßø0
+P
+java:S1128".Remove this unused import 'dataModal.Patient'.(¢ÓŠçûÿÿÿÿ8òİƒßø0
+U
+java:S1128"3Remove this unused import 'dataModal.Prescription'.(İˆ­Õúÿÿÿÿ8óİƒßø0
